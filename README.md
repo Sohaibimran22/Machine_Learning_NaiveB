@@ -27,4 +27,17 @@ Multi class Prediction: This algorithm is also well known for multi class predic
 
 Text classification/ Spam Filtering/ Sentiment Analysis: Naive Bayes classifiers mostly used in text classification (due to better result in multi class problems and independence rule) have higher success rate as compared to other algorithms. As a result, it is widely used in Spam filtering (identify spam e-mail) and Sentiment Analysis (in social media analysis, to identify positive and negative customer sentiments)
 
-Recommendation System: Naive Bayes Classifier and Collaborative Filtering together builds a Recommendation System that uses machine learning and data mining techniques to filter unseen information and predict whether a user would like a given resource or not
+Recommendation System: Naive Bayes Classifier and Collaborative Filtering together builds a Recommendation System that uses machine learning and data mining techniques to filter unseen information and predict whether a user would like a given resource or not.
+
+Applications of Naive Bayes Algorithm
+As you must’ve noticed, this algorithm offers plenty of advantages to its users. That’s why it has a lot of applications in various sectors too. Here are some applications of Naive Bayes algorithm:
+
+As this algorithm is fast and efficient, you can use it to make real-time predictions.
+
+This algorithm is popular for multi-class predictions. You can find the probability of multiple target classes easily by using this algorithm.
+
+Email services (like Gmail) use this algorithm to figure out whether an email is a spam or not. This algorithm is excellent for spam filtering.
+
+Its assumption of feature independence, and its effectiveness in solving multi-class problems, makes it perfect for performing Sentiment Analysis. Sentiment Analysis refers to the identification of positive or negative sentiments of a target group (customers, audience, etc.)
+
+Collaborative Filtering and the Naive Bayes algorithm work together to build recommendation systems. These systems use data mining and machine learning to predict if the user would like a particular resource or not. 
